@@ -5,3 +5,5 @@ This project is basically me trying to learn more about HTML, CSS and PHP after 
 I hope it will turn out good.
 
 Update 14/03/2024: Nothing really productive have been done yet so let's start over again
+
+PP means "Personal Project" btw
